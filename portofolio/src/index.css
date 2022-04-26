@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+code {
+  font-family: 'Orelega One', cursive;
+}
+.navbar{
+  color: blue;
+}
+
+.skill{
+  max-width: 600px;
+  margin:  3em auto;
+}
+.garis{
+  border: 1 ;
+  width:100%;
+}
+.Fotoku{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.Footer{
+  text-align: center;
+}
